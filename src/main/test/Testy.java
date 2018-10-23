@@ -5,6 +5,10 @@ import emily.command.fun.BlackJackCommand;
 import emily.command.fun.CatFactCommand;
 import emily.command.fun.EightballCommand;
 import emily.command.fun.EmojifyCommand;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8b14f32ceb0abf8803adc671cccb9ac19e7ca008
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
