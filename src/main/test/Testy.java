@@ -3,7 +3,7 @@ import emily.command.fun.BlackJackCommand;
 import emily.command.fun.CatFactCommand;
 import emily.command.fun.EightballCommand;
 import emily.command.fun.EmojifyCommand;
-import emoji4j.Emoji;
+
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
