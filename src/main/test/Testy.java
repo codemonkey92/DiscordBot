@@ -1,12 +1,10 @@
 
 import emily.command.administrative.*;
-import emily.games.blackjack.Blackjack;
 import emily.command.administrative.AutoReplyCommand;
 import emily.command.fun.BlackJackCommand;
 import emily.command.fun.CatFactCommand;
 import emily.command.fun.EightballCommand;
 import emily.command.fun.EmojifyCommand;
-import emoji4j.Emoji;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
